@@ -15,9 +15,9 @@ const Footer = () => {
         <div className='footer-contact'>
             <h3>Contact Me</h3>
             <ul>
-                <li><FaEnvelope/> email@example.com</li>
-                <li><FaPhone/>+123 456 7890</li>
-                <li><FaMapMarkedAlt/>New York,USA</li>
+                <li><FaEnvelope/> info@example.com</li>
+                <li><FaPhone/>+91 9898989898</li>
+                <li><FaMapMarkedAlt/>New delhi, India</li>
             </ul>
         </div>
 
@@ -33,7 +33,7 @@ const Footer = () => {
     </div>
 
     <div className='footer-bottom'>
-        <p>&copy; 2024 MyPortfolio. All rights reserved.</p>
+        <p>&copy; 2025 MyPortfolio. All rights reserved.</p>
     </div>
    </footer>
   )

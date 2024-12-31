@@ -14,7 +14,6 @@ const Navbar = () => {
     ]
   return (
     <div className='navbar'>
-
       <div className='menu-icon' onClick={() => setIsOpen(!isOpen)}>
         {isOpen ? <FaTimes/> : <FaBars/>}
         

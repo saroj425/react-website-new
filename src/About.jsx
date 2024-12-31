@@ -40,7 +40,7 @@ const About = () => {
 
         <div className='about-image'>
             <motion.img
-              src="img.png"
+              src="img2.png"
               className='about-img'
               initial={{opacity:0,scale:0.8}}
               animate={{opacity:1,scale:1}}
