@@ -11,7 +11,7 @@ const Home = () => {
              animate={{opacity:1,x:0}}
              transition={{duration:1}}
             >
-                Hello, I'm Baljinder Kaur
+                Hello, I'm Saroj Kumar Pandey
             </motion.h1>
             <motion.p
              className='hero-description'
